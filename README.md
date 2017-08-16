@@ -2,14 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setps to run project
 
-// git clone https://github.com/hkxicor/Scapic-react-redux-aframe-gallary.git
+> git clone https://github.com/hkxicor/Scapic-react-redux-aframe-gallary.git
 
-//cd Scapic-react-redux-aframe-gallary
+>cd Scapic-react-redux-aframe-gallary
 
-//npm install
+>npm install
 
-// yarn start 
+>yarn start 
 
 or
 
-//npm start
+>npm start
